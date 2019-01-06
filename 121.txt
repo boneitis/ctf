@@ -1,4 +1,0 @@
-GET CHALLENGE TEXT
-curl https://ringzer0ctf.com/challenges/121 -b $(cat cookie)|grep BEGIN -A1 |sed -e '1d' -e 's/\t//g'
-curl https://ringzer0ctf.com/challenges/121 -b $(cat cookie)|grep BEGIN -A1 |sed -e '1d' -e 's/\t//g' |sed 's/\\x//g'  # remove hex prefixes
-
