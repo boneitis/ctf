@@ -7,3 +7,6 @@
 
 ### [Microcorruption](https://www.microcorruption.com/about)
 [Link to Profile](https://microcorruption.com/profile/38325)
+
+### Rubik's Cube *(3x3)*
+PB: 23.22s *(MoYu WeiLong GTS2 M)*
