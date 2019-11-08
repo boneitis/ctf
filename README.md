@@ -10,3 +10,6 @@
 
 ### Rubik's Cube *(3x3)*
 PB: 23.22s *(MoYu WeiLong GTS2 M)*
+
+### Rubik's Cube *(4x4)*
+PB: 1:58.60 *(YuXin Little Magic)*
