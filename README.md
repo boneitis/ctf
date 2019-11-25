@@ -9,9 +9,9 @@
 [Link to Profile](https://microcorruption.com/profile/38325)
 
 ### Rubik's Cube *(3x3)*
-PB: 20.70s *(YuXin Little Magic Stickerless)*
+PB: 20.70s *(YuXin Little Magic Stickerless)*<br/>
 ![3x3](https://github.com/boneitis/ctf/blob/master/FiveTimer3.png)
 
 ### Rubik's Cube *(4x4)*
-PB: 1:58.60 *(YuXin Little Magic)*
+PB: 1:58.60 *(YuXin Little Magic)*<br/>
 ![4x4](https://github.com/boneitis/ctf/blob/master/FiveTimer4.png)
