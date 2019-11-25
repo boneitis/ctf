@@ -9,7 +9,9 @@
 [Link to Profile](https://microcorruption.com/profile/38325)
 
 ### Rubik's Cube *(3x3)*
-PB: 23.22s *(MoYu WeiLong GTS2 M)*
+PB: 20.70s *(YuXin Little Magic Stickerless)*
+![3x3](https://github.com/boneitis/ctf/raw/master/160308_FiveTimer.png)
 
 ### Rubik's Cube *(4x4)*
 PB: 1:58.60 *(YuXin Little Magic)*
+![4x4](https://github.com/boneitis/ctf/raw/master/215226_FiveTimer.png)
