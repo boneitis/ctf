@@ -10,7 +10,7 @@
 
 ### Rubik's Cube *(3x3)*
 PB, Single: 20.70s *(YuXin Little Magic Stickerless)*<br/>
-![3x3](https://github.com/boneitis/ctf/blob/master/FiveTimer3.png)
+![3x3](https://github.com/boneitis/ctf/blob/master/3x3pb.png)
 
 ### Rubik's Cube *(4x4)*
 PB, Single: 1:47.73 *(YuXin Little Magic)*<br/>
