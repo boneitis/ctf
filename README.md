@@ -2,7 +2,7 @@
 ### [Microcorruption](https://www.microcorruption.com/about)
 [Link to Profile](https://microcorruption.com/profile/38325)
 
-Final rank: no. 456 / 70,000+.
+Rank: no. 456 of 70,000+.
 
 ### [picoCTF 2018](https://picoctf.com/about)
 ![pico2018](https://github.com/boneitis/ctf/raw/master/pico18.jpg)
