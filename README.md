@@ -1,3 +1,8 @@
+# TOC
+- [Tracked Profiles and Progress](#profiles)
+- [Write-ups, Commentary](#commentary)
+
+<a name="profiles"></a>
 # Tracked Profiles and Progress
 ### [Microcorruption](https://www.microcorruption.com/about)
 [Link to Profile](https://microcorruption.com/profile/38325)
@@ -23,3 +28,8 @@ PB, Single: 1:47.73 *(YuXin Little Magic)*<br/>
 
 ### [We Chall](https://www.wechall.net/)
 [Link to Profile](https://www.wechall.net/profile/boneitis)
+
+<a name="commentary"></a>
+# Write-ups, Commentary
+
+### Microcorruption: Map of Chernobyl
