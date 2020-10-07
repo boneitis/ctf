@@ -32,4 +32,10 @@ PB, Single: 1:47.73 *(YuXin Little Magic)*<br/>
 <a name="commentary"></a>
 # Write-ups, Commentary
 
-### Microcorruption: Map of Chernobyl
+### Microcorruption: Chernobyl Sequence Map
+
+Click for full resolution.
+
+[![maptop](https://github.com/boneitis/ctf/raw/master/image4comp.jpeg "Clicky")](https://github.com/boneitis/ctf/raw/master/image4.jpeg)
+
+[![mapbot](https://github.com/boneitis/ctf/raw/master/image6comp.jpeg "Clicky")](https://github.com/boneitis/ctf/raw/master/image6.jpeg)
